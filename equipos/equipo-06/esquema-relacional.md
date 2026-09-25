@@ -58,4 +58,4 @@ INSCRIPCION(**num_socio** → SOCIO, **id_clase** → CLASE, **fecha_inscripcion
 | LOCKER.num_socio | Hay lockers libres que nadie ha rentado. |
 | INSTRUCTOR.num_supervisor | La coordinadora general no tiene supervisor. |
 
-## 5. Cambios respecto del E/R del jueves
+## 5. Cambios respecto el E/R del jueves
